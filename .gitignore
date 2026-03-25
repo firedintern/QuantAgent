@@ -1,4 +1,6 @@
 __pycache__/
+.env
+.venv/
 kline_chart.png
 trend_graph.png
 record.csv
